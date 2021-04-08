@@ -4,7 +4,7 @@
 
 
 
-Para utilizar a aplicação clone o projeto e compile utilizado o maven wrapper.
+Para utilizar a aplicação clone o projeto e compile utilizado o maven.
 ```mvn clean package```
 
 Após isso vá até a pasta 'target' e execute ```java -jar brasil-doc-gen.jar <Quantidade> <Tipo> <Path>```
